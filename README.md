@@ -64,19 +64,21 @@ emotion-analyzer/
 
 ---
 
-
-
-\## 🖼️ Screenshots
+\## 📸 App Screenshots
 
 
 
-> 📷 Replace these with your actual screenshots inside `docs/` or `assets/` folder
+Get a quick look into how \*\*MindMender - Emotion Analyzer\*\* works with our intuitive UI and real-time emotion feedback.
 
 
 
 \### 🏠 Home Page
 
-!\[Home Page](docs/home-page.png)
+> Introducing MindMender with an elegant UI and clear call-to-action.
+
+
+
+!\[Home Page](./docs/home.png)
 
 
 
@@ -84,9 +86,13 @@ emotion-analyzer/
 
 
 
-\### 📝 Analyze Page
+\### 🧠 Emotion Request
 
-!\[Analyze Page](docs/analyze-page.png)
+> Users can enter their current emotional state using natural language.
+
+
+
+!\[Emotion Request](./docs/request.png)
 
 
 
@@ -94,11 +100,27 @@ emotion-analyzer/
 
 
 
-\### 📊 Response Page
+\### 📊 AI Response Output
 
-!\[Response Page](docs/response-page.png)
+> The system returns detected emotion, confidence level, and a helpful AI-generated tip.
 
 
+
+!\[Response Output](./docs/response.png)
+
+
+
+---
+
+
+
+\### ℹ️ Informational Section
+
+> Why use MindMender? Learn how our AI-powered insights work to support your emotional well-being.
+
+
+
+!\[Information Section](./docs/info.png)
 
 ---
 
