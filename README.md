@@ -10,17 +10,17 @@ A fullstack AI-powered mental health journal that detects emotions and gives per
 
 
 
-\## 📌 Overview
+## 📌 Overview
 
 
 
 This project uses:
 
-\- Spring Boot for backend API
+- Spring Boot for backend API
 
-\- FastAPI with Hugging Face + Gemini for emotion analysis
+- FastAPI with Hugging Face + Gemini for emotion analysis
 
-\- React + Vite + Tailwind for the frontend
+- React + Vite + Tailwind for the frontend
 
 
 
@@ -28,7 +28,7 @@ This project uses:
 
 
 
-\## 📂 Folder Structure
+## 📂 Folder Structure
 
 
 
@@ -46,7 +46,7 @@ emotion-analyzer/
 
 
 
-\## 🚀 How It Works
+## 🚀 How It Works
 
 
 
@@ -66,17 +66,16 @@ emotion-analyzer/
 
 
 
-\## 🖼️ Screenshots
+## 🖼️ Screenshots
 
 
 
-> 📷 Replace these with your actual screenshots inside `docs/` or `assets/` folder
 
 
 
-\### 🏠 Home Page
+### 🏠 Home Page
 
-!\[Home Page](docs/home-page.png)
+![Home Page](docs/home-page.png)
 
 
 
@@ -84,7 +83,7 @@ emotion-analyzer/
 
 
 
-\### 📝 Analyze Page
+### 📝 Analyze Page
 
 !\[Analyze Page](docs/analyze-page.png)
 
@@ -94,7 +93,7 @@ emotion-analyzer/
 
 
 
-\### 📊 Response Page
+### 📊 Response Page
 
 !\[Response Page](docs/response-page.png)
 
@@ -104,11 +103,11 @@ emotion-analyzer/
 
 
 
-\## 🔧 How to Run
+## 🔧 How to Run
 
 
 
-\### 1. Clone the project
+### 1. Clone the project
 
 
 
@@ -118,57 +117,54 @@ git clone https://github.com/rohanmandal341/emotion-analyzer.git
 
 cd emotion-analyzer
 
+```
+
+##2. Run Python ML Server (FastAPI)
 
 
-\##2. Run Python ML Server (FastAPI)
-
-
-
+```bash
 cd ML-model-PY
 
 pip install -r requirements.txt
 
-
+```
 
 python app.py
 
 ➡️ Add your Gemini API key in .env.local:
-
-api\_key=YOUR\_GEMINI\_API\_KEY
-
-
-
-\##3. Run Spring Boot Backend
+```env
+api_key=YOUR\_GEMINI\_API\_KEY
+```
 
 
+## 3. Run Spring Boot Backend
+
+```bash
 
 cd Backend-springboot
 
 ./mvnw spring-boot:run
 
+```
 
-
-\##4. Run Frontend (React + Vite)
-
+## 4. Run Frontend (React + Vite)
+```bash
 cd Front-End-React-vite
 
 npm install
 
 npm run dev
-
-🧠 Powered By
+```
+---
+## 🧠 Powered By
 
 Hugging Face RoBERTa (Emotion Classification)
 
-
-
 Google Gemini (AI Tips)
 
-
-
 Spring Boot, FastAPI, React, Tailwind CSS
-
-✅ License
+---
+## ✅ License
 
 MIT – Free to use and modify
 
