@@ -1,4 +1,4 @@
-\# 🧠 Emotion Analyzer
+# 🧠 Emotion Analyzer
 
 
 
