@@ -83,7 +83,7 @@ Get a quick look into how \*\*MindMender - Emotion Analyzer\*\* works with our i
 > Introducing MindMender with an elegant UI and clear call-to-action.
 
 
-![Home Page](docs/home-page.png)
+![Home Page](docs/home.png)
 
 
 
